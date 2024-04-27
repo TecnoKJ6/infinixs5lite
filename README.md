@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @infinixs5lite
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Android device tree for TECNO TECNO KJ6 (TECNO-KJ6)
 
-<!---
-infinixs5lite/infinixs5lite is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```
+#
+# Copyright (C) 2024 The Android Open Source Project
+# Copyright (C) 2024 SebaUbuntu's TWRP device tree generator
+#
+# SPDX-License-Identifier: Apache-2.0
+#
+```
